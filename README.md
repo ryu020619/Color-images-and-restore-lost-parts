@@ -46,7 +46,7 @@ test.csv [파일] : 추론을 위한 Input PNG 이미지들의 경로
 ![epoch29](https://github.com/user-attachments/assets/8b815998-68b5-474d-bdc2-98405fbdd962)
 ### epoch 30
 ---
-=> 위 사진들과 같이 조금씩 손실 부분 영역과 색상이 복구 된 모습이다.
+-> 위 사진들과 같이 조금씩 손실 부분 영역과 색상이 복구 된 모습이다.
 
 -> 대회 사이트는 다음 링크 참고
  ![이미지 색상화 및 손실 부분 복원 AI 경진대회]([https://github.com/gordicaleksa/pytorch-neural-style-transfer](https://dacon.io/competitions/official/236420/data))
